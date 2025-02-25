@@ -1,0 +1,9 @@
+computer.pcap
+1. Latency -> RTT = min/avg/max/stddev = 2.857/26.569/361.912/17.941 ms = .0000165
+4. 1000000 packets transmitted, 740348 packets received, 26.0% packet loss
+
+
+Board.pcap
+Average ICMP Latency: 12.75 ms
+Average Throughput: 258558.38 bytes/sec
+4. 1000000/910000 = .9% packet loss
